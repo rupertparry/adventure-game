@@ -1,0 +1,11 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: #0b2828;
+  color: #a1babb;
+  font-family: "Source Code Pro", monospace;
+}
